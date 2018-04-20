@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+20 April 2018
 
 ### Student Name:  
-(First and Last Name)
+Jamie Graves
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned how to use HTTP requests to pull information. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jg15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use JSON requests to pull information from a 3rd party server. 
+2. What API is and how it works.
+3. How to connect HTML requests to JSON to display information pulled. 
